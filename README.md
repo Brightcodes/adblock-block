@@ -1,7 +1,7 @@
 Adblock blocker
 ===============
 
-A swf plugin for a Brightcove Player that detects when an adblocker has been used to prevent advertising being shown in the player.
+A SWF plugin for a Brightcove Player that detects when an adblocker has been used to prevent advertising being shown in the player.
 
 Requires the [Brightcove Player API SWC](http://support.brightcove.com/en/docs/flash-only-player-api-swc).
 
