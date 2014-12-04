@@ -3,6 +3,7 @@ package {
     // Catches an error that will occur if the Ad module swf has been blocked
     // Uses overlay API to put annoying text in front of player for those blocking ads
     // Implement as a required module in BEML to ensure that it is loaded
+    // ...
 
     import com.brightcove.api.APIModules;
     import com.brightcove.api.BrightcoveModuleWrapper;
